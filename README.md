@@ -1,9 +1,3 @@
-<p align="center">
-	<img src="https://avatars3.githubusercontent.com/u/9854865?s=460&u=51a1dd673f530fce204708e20d6b115bab8db568&v=4"/>
-</p>
-
-<h1 align="center">SirJosh3917</h1>
-
 Hi! I'm an experienced developer who loves to code. Always learning and improving by doing every day.
 
 Simplicity is beautiful; "*If I had more time, I would have written a shorter letter.*" - [Blaise Pascal](https://quoteinvestigator.com/2012/04/28/shorter-letter/)
